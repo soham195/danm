@@ -1,0 +1,79 @@
+.starting_div{
+  background-color: #000000;
+  color: white;
+  height: 700px;
+  margin-top: -23px;
+  margin-left: -8px;
+  margin-right: -8px;
+}
+
+
+.main-heading{
+  position: absolute;
+  font-size: 600%;
+  margin-left: 20%;
+  font-family: Macondo;
+  margin-top: 5%;
+}
+
+
+.card-message{
+  position: absolute;
+  font-size: 100%;
+  margin-left: 20%;
+  margin-top: 20%;
+}
+
+.sub{
+  position: absolute;
+  margin-top: 38%;
+  writing-mode:vertical-rl;
+
+}
+
+.confetti{
+  position: absolute;
+  max-width: 50%;
+  margin-left: 10%;
+  margin-top: 5%;
+}
+
+.age{
+  font-size: 900%;
+  position: absolute;
+  margin-left: 40%;
+  margin-top: 15%;
+  font-family: Macando;
+  background: -webkit-linear-gradient(#9BA3EB, #827397, #FF4949, #E78EA9, #FFD24C, #B7E5DD);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.f_para{
+  position: absolute;
+  font-size: 150%;
+  margin-left: 29%;
+  text-align: center;
+  margin-top: 25%;
+}
+
+.confetti_2{
+  position: absolute;
+  margin-left: 60%;
+  width: 200px;
+  margin-top: 25%;
+}
+
+.confetti_3{
+  position: absolute;
+  margin-left: 15%;
+  width: 200px;
+  margin-top: 24%;
+  transform: rotate(60deg);
+}
+
+.collage{
+  height: 700px;
+  position: absolute;
+  margin-left: 65%;
+}
